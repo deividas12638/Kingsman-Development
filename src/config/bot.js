@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Kingsman Development",     // this is what people actually see
+        name: "Kingsman Development", // required by Discord API, not shown in the client
+        state: "Kingsman Discord Bot",     // this is what people actually see
         type: 2,               // Custom
       },
     ],
