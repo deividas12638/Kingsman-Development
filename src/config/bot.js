@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Kingsman Development", // required by Discord API, not shown in the client
-        state: "Kingsman Discord Bot",     // this is what people actually see
+        state: "Made By Deividas & Frikandel",     // this is what people actually see
         type: 2,               // Custom
       },
     ],
